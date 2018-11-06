@@ -1,0 +1,212 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{2083999D-EDB1-4A6E-8136-CAA3EA3C7EE0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>prj_escola</RootNamespace>
+    <AssemblyName>prj_escola</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Alunos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alunos.Designer.cs">
+      <DependentUpon>Alunos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Boletim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Boletim.Designer.cs">
+      <DependentUpon>Boletim.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConsAnaAlu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConsAnaAlu.Designer.cs">
+      <DependentUpon>ConsAnaAlu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Conexao.cs" />
+    <Compile Include="ConsAnaDisc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConsAnaDisc.Designer.cs">
+      <DependentUpon>ConsAnaDisc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConsAnaMen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConsAnaMen.Designer.cs">
+      <DependentUpon>ConsAnaMen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Disciplinas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Disciplinas.Designer.cs">
+      <DependentUpon>Disciplinas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormConsCadAlu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormConsCadAlu.Designer.cs">
+      <DependentUpon>FormConsCadAlu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmConsCadDisc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmConsCadDisc.Designer.cs">
+      <DependentUpon>FrmConsCadDisc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRegMen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRegMen.Designer.cs">
+      <DependentUpon>frmRegMen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu.Designer.cs">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RelAnaDisc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RelAnaDisc.Designer.cs">
+      <DependentUpon>RelAnaDisc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RelAnaMen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RelAnaMen.Designer.cs">
+      <DependentUpon>RelAnaMen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RelCadAlu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RelCadAlu.Designer.cs">
+      <DependentUpon>RelCadAlu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RelCadDisciplina.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RelCadDisciplina.Designer.cs">
+      <DependentUpon>RelCadDisciplina.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Alunos.resx">
+      <DependentUpon>Alunos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Boletim.resx">
+      <DependentUpon>Boletim.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConsAnaAlu.resx">
+      <DependentUpon>ConsAnaAlu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConsAnaDisc.resx">
+      <DependentUpon>ConsAnaDisc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConsAnaMen.resx">
+      <DependentUpon>ConsAnaMen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Disciplinas.resx">
+      <DependentUpon>Disciplinas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormConsCadAlu.resx">
+      <DependentUpon>FormConsCadAlu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmConsCadDisc.resx">
+      <DependentUpon>FrmConsCadDisc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRegMen.resx">
+      <DependentUpon>frmRegMen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu.resx">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="RelAnaDisc.resx">
+      <DependentUpon>RelAnaDisc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RelAnaMen.resx">
+      <DependentUpon>RelAnaMen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RelCadAlu.resx">
+      <DependentUpon>RelCadAlu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RelCadDisciplina.resx">
+      <DependentUpon>RelCadDisciplina.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\printer-.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eye.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

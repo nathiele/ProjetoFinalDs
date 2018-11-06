@@ -1,0 +1,66 @@
+G:\Etec 2018\DS\prj_escola\prj_escola\bin\Debug\prj_escola.exe
+G:\Etec 2018\DS\prj_escola\prj_escola\bin\Debug\prj_escola.pdb
+G:\Etec 2018\DS\prj_escola\prj_escola\obj\x86\Debug\prj_escola.frmAlunos.resources
+G:\Etec 2018\DS\prj_escola\prj_escola\obj\x86\Debug\prj_escola.frmDisc.resources
+G:\Etec 2018\DS\prj_escola\prj_escola\obj\x86\Debug\prj_escola.frmControle.resources
+G:\Etec 2018\DS\prj_escola\prj_escola\obj\x86\Debug\prj_escola.Properties.Resources.resources
+G:\Etec 2018\DS\prj_escola\prj_escola\obj\x86\Debug\prj_escola.csproj.GenerateResource.Cache
+G:\Etec 2018\DS\prj_escola\prj_escola\obj\x86\Debug\prj_escola.exe
+G:\Etec 2018\DS\prj_escola\prj_escola\obj\x86\Debug\prj_escola.pdb
+F:\Etec 2018\DS\prj_escola\prj_escola\obj\x86\Debug\prj_escola.exe
+F:\Etec 2018\DS\prj_escola\prj_escola\obj\x86\Debug\prj_escola.pdb
+F:\Etec 2018\DS\prj_escola\prj_escola\bin\Debug\prj_escola.exe
+F:\Etec 2018\DS\prj_escola\prj_escola\bin\Debug\prj_escola.pdb
+F:\Etec 2018\DS\prj_escola\prj_escola\obj\x86\Debug\prj_escola.frmAlunos.resources
+F:\Etec 2018\DS\prj_escola\prj_escola\obj\x86\Debug\prj_escola.frmDisc.resources
+F:\Etec 2018\DS\prj_escola\prj_escola\obj\x86\Debug\prj_escola.frmControle.resources
+F:\Etec 2018\DS\prj_escola\prj_escola\obj\x86\Debug\prj_escola.Properties.Resources.resources
+F:\Etec 2018\DS\prj_escola\prj_escola\obj\x86\Debug\prj_escola.csproj.GenerateResource.Cache
+G:\Etec 2018\DS\prj_escola\prj_escola\obj\x86\Debug\prj_escola.FrmConsCadDisc.resources
+G:\Etec 2018\DS\prj_escola\prj_escola\obj\x86\Debug\prj_escola.csprojResolveAssemblyReference.cache
+G:\Etec 2018\DS\prj_escola\prj_escola\obj\x86\Debug\prj_escola.FormConsCadAlu.resources
+G:\Etec 2018\DS\prj_escola\prj_escola\obj\x86\Debug\prj_escola.frmRegMen.resources
+E:\ds\Proj_escola--30-ago-master\prj_escola\prj_escola\obj\x86\Debug\prj_escola.exe
+E:\ds\Proj_escola--30-ago-master\prj_escola\prj_escola\obj\x86\Debug\prj_escola.pdb
+E:\ds\Proj_escola--30-ago-master\prj_escola\prj_escola\bin\Debug\prj_escola.exe
+E:\ds\Proj_escola--30-ago-master\prj_escola\prj_escola\bin\Debug\prj_escola.pdb
+E:\ds\Proj_escola--30-ago-master\prj_escola\prj_escola\obj\x86\Debug\prj_escola.csprojResolveAssemblyReference.cache
+E:\ds\Proj_escola--30-ago-master\prj_escola\prj_escola\obj\x86\Debug\prj_escola.frmAlunos.resources
+E:\ds\Proj_escola--30-ago-master\prj_escola\prj_escola\obj\x86\Debug\prj_escola.frmDisc.resources
+E:\ds\Proj_escola--30-ago-master\prj_escola\prj_escola\obj\x86\Debug\prj_escola.FormConsCadAlu.resources
+E:\ds\Proj_escola--30-ago-master\prj_escola\prj_escola\obj\x86\Debug\prj_escola.FrmConsCadDisc.resources
+E:\ds\Proj_escola--30-ago-master\prj_escola\prj_escola\obj\x86\Debug\prj_escola.frmRegMen.resources
+E:\ds\Proj_escola--30-ago-master\prj_escola\prj_escola\obj\x86\Debug\prj_escola.frmControle.resources
+E:\ds\Proj_escola--30-ago-master\prj_escola\prj_escola\obj\x86\Debug\prj_escola.Properties.Resources.resources
+E:\ds\Proj_escola--30-ago-master\prj_escola\prj_escola\obj\x86\Debug\prj_escola.RelCadAlu.resources
+E:\ds\Proj_escola--30-ago-master\prj_escola\prj_escola\obj\x86\Debug\prj_escola.csproj.GenerateResource.Cache
+E:\ds\Proj_escola--30-ago-master\prj_escola\prj_escola\obj\x86\Debug\prj_escola.Boletim.resources
+E:\ds\Proj_escola--30-ago-master\prj_escola\prj_escola\obj\x86\Debug\prj_escola.ConsAnaAlu.resources
+E:\ds\Proj_escola--30-ago-master\prj_escola\prj_escola\obj\x86\Debug\prj_escola.ConsAnaDisc.resources
+E:\ds\Proj_escola--30-ago-master\prj_escola\prj_escola\obj\x86\Debug\prj_escola.ConsAnaMen.resources
+E:\ds\Proj_escola--30-ago-master\prj_escola\prj_escola\obj\x86\Debug\prj_escola.RelAnaDisc.resources
+E:\ds\Proj_escola--30-ago-master\prj_escola\prj_escola\obj\x86\Debug\prj_escola.RelAnaMen.resources
+E:\ds\Proj_escola--30-ago-master\prj_escola\prj_escola\obj\x86\Debug\prj_escola.RelCadDisciplina.resources
+D:\ds\Proj_escola--30-ago-master\prj_escola\prj_escola\obj\x86\Debug\prj_escola.exe
+D:\ds\Proj_escola--30-ago-master\prj_escola\prj_escola\obj\x86\Debug\prj_escola.pdb
+D:\ds\Proj_escola--30-ago-master\prj_escola\prj_escola\bin\Debug\prj_escola.exe
+D:\ds\Proj_escola--30-ago-master\prj_escola\prj_escola\bin\Debug\prj_escola.pdb
+D:\ds\Proj_escola--30-ago-master\prj_escola\prj_escola\obj\x86\Debug\prj_escola.csprojResolveAssemblyReference.cache
+D:\ds\Proj_escola--30-ago-master\prj_escola\prj_escola\obj\x86\Debug\prj_escola.frmAlunos.resources
+D:\ds\Proj_escola--30-ago-master\prj_escola\prj_escola\obj\x86\Debug\prj_escola.Boletim.resources
+D:\ds\Proj_escola--30-ago-master\prj_escola\prj_escola\obj\x86\Debug\prj_escola.ConsAnaAlu.resources
+D:\ds\Proj_escola--30-ago-master\prj_escola\prj_escola\obj\x86\Debug\prj_escola.ConsAnaDisc.resources
+D:\ds\Proj_escola--30-ago-master\prj_escola\prj_escola\obj\x86\Debug\prj_escola.ConsAnaMen.resources
+D:\ds\Proj_escola--30-ago-master\prj_escola\prj_escola\obj\x86\Debug\prj_escola.frmDisc.resources
+D:\ds\Proj_escola--30-ago-master\prj_escola\prj_escola\obj\x86\Debug\prj_escola.FormConsCadAlu.resources
+D:\ds\Proj_escola--30-ago-master\prj_escola\prj_escola\obj\x86\Debug\prj_escola.FrmConsCadDisc.resources
+D:\ds\Proj_escola--30-ago-master\prj_escola\prj_escola\obj\x86\Debug\prj_escola.frmRegMen.resources
+D:\ds\Proj_escola--30-ago-master\prj_escola\prj_escola\obj\x86\Debug\prj_escola.frmControle.resources
+D:\ds\Proj_escola--30-ago-master\prj_escola\prj_escola\obj\x86\Debug\prj_escola.Properties.Resources.resources
+D:\ds\Proj_escola--30-ago-master\prj_escola\prj_escola\obj\x86\Debug\prj_escola.RelAnaDisc.resources
+D:\ds\Proj_escola--30-ago-master\prj_escola\prj_escola\obj\x86\Debug\prj_escola.RelAnaMen.resources
+D:\ds\Proj_escola--30-ago-master\prj_escola\prj_escola\obj\x86\Debug\prj_escola.RelCadAlu.resources
+D:\ds\Proj_escola--30-ago-master\prj_escola\prj_escola\obj\x86\Debug\prj_escola.RelCadDisciplina.resources
+D:\ds\Proj_escola--30-ago-master\prj_escola\prj_escola\obj\x86\Debug\prj_escola.csproj.GenerateResource.Cache
+G:\ds\Proj_escola--30-ago-master\prj_escola\prj_escola\obj\x86\Debug\prj_escola.exe
+G:\ds\Proj_escola--30-ago-master\prj_escola\prj_escola\obj\x86\Debug\prj_escola.pdb
